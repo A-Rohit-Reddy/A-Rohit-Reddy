@@ -146,15 +146,15 @@ Features:
 <p align="center">
 
 <a href="https://www.linkedin.com/in/rohit-reddy-anumolu-37ba33323">
-<img src="https://img.shields.io/badge/LinkedIn-Rohit%20Reddy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Rohit%20Reddy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://twitter.com/AnumoluRohit">
-<img src="https://img.shields.io/badge/Twitter-@AnumoluRohit-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Twitter-@Anumolu_Rohit-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
 <a href="https://www.instagram.com/its_rohit1911_/">
-<img src="https://img.shields.io/badge/Instagram-@rohit_reddy-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-rohit_reddy-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </p>
