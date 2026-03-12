@@ -1,9 +1,13 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Flutter+Developer;Open+Source+Enthusiast;Always+Learning+New+Things&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Rohit+Reddy;Full+Stack+Developer;Flutter+Developer;Open+Source+Enthusiast;Building+Cool+Projects+🚀">
 </p>
 
 <h1 align="center">Hi 👋, I'm Rohit Reddy</h1>
 
+<br>
+<p align="center">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+</p>
 <p align="center">
 🚀 B.Tech Computer Science Student <br>
 💻 Full Stack Developer | Open Source Enthusiast <br>
@@ -139,8 +143,21 @@ Features:
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/rohit-reddy-anumolu-37ba33323
-- 📧 Email: 5668.rohit@gmail.com
+<p align="center">
+
+<a href="https://www.linkedin.com/in/rohit-reddy-anumolu-37ba33323">
+<img src="https://img.shields.io/badge/LinkedIn-Rohit%20Reddy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://twitter.com/AnumoluRohit">
+<img src="https://img.shields.io/badge/Twitter-@AnumoluRohit-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/its_rohit1911_/">
+<img src="https://img.shields.io/badge/Instagram-@rohit_reddy-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
