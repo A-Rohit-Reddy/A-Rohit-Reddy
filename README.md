@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="450"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Rohit+Reddy;Full+Stack+Developer;App+Developer;Open+Source+Enthusiast;Building+Cool+Projects+🚀">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF3131&center=true&vCenter=true&width=700&lines=Hi+I'm+Rohit+Reddy;Full+Stack+Developer;App+Developer;Open+Source+Enthusiast;Building+Cool+Projects+🚀">
 </p>
 
 <p align="center">
