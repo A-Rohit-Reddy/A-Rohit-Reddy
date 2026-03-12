@@ -1,22 +1,23 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Rohit+Reddy;Full+Stack+Developer;Flutter+Developer;Open+Source+Enthusiast;Building+Cool+Projects+🚀">
+  <img src="assets/header.png" alt="header"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Rohit Reddy</h1>
-
-<br>
 <p align="center">
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="450"/>
 </p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Rohit+Reddy;Full+Stack+Developer;App+Developer;Open+Source+Enthusiast;Building+Cool+Projects+🚀">
+</p>
+
 <p align="center">
 🚀 B.Tech Computer Science Student <br>
-💻 Full Stack Developer | Open Source Enthusiast <br>
-🌱 Currently exploring System Design & Cloud
+🎓 Amrita Vishwa Vidyapeetham
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 - 🎓 Computer Science student at **Amrita Vishwa Vidyapeetham**
 - 💡 Interested in **Full Stack Development, Cloud Computing, and Open Source**
@@ -25,140 +26,128 @@
 
 ---
 
-## 🚀 Tech Stack
+# 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flutter,nextjs,flask,docker,git,linux,c,js" />
+<img src="https://skillicons.dev/icons?i=c,python,js,dart,flutter,nextjs,flask,docker,git,github,linux,mysql&perline=6" />
 </p>
 
-### Languages
-- C
-- Python
-- JavaScript
-- Dart
-- SQL
+### 👨‍💻 Languages
+- C  
+- Python  
+- JavaScript  
+- Dart  
+- SQL  
 
-### Frameworks & Tools
-- Flutter
-- Next.js
-- Flask
-- Git
-- Linux
-- Docker
+### ⚙️ Frameworks & Libraries
+- Flutter  
+- Next.js  
+- Flask  
+
+### 🛠 Tools & Technologies
+- Git  
+- GitHub  
+- Docker  
+- Linux  
+
+### 🗄 Databases
+- MySQL  
+- SQLite
 
 ---
 
-## 📌 Featured Projects
+# 📌 Featured Projects
 
 ### 🎬 Movie Review Platform
-Full stack web application where users can review movies and maintain watchlists.
+Full stack movie review platform where users can review movies and maintain watchlists.
 
-**Tech Stack**
-Next.js • Flask • TMDB API • SQLAlchemy
-
-Features:
-- Movie search
-- User authentication
-- Add reviews
-- Watchlist system
-
+**Tech:** Next.js • Flask • TMDB API • SQLAlchemy  
 
 ---
 
 ### 🏥 Smart Healthcare Management System
+Platform for managing patient records, appointments, and doctors.
 
-A healthcare platform that helps manage patient records, appointments, and doctors.
-
-Features:
-- Patient management
-- Appointment scheduling
-- Database integration
+**Features**
+- Patient management  
+- Appointment scheduling  
+- Database integration  
 
 ---
 
 ### 🏨 Hostel Management System
+Web-based system to manage hostel rooms, students, and wardens.
 
-A web-based hostel management platform for managing students, rooms, and wardens.
-
-Features:
-- Room allocation
-- Student records
-- Warden dashboard
+**Features**
+- Room allocation  
+- Student records  
+- Warden dashboard  
 
 ---
 
 ### 🔎 AI Learning Disabilities Assessment Tool
-
-Hackathon project that analyzes student assessments and generates personalized reports.
-
-Features:
-- Assessment analysis
-- AI-generated reports
-- Personalized learning suggestions
+Hackathon project that analyzes student assessments and generates personalized learning reports.
 
 ---
 
 ### 🔐 Profanity Filter Chrome Extension
-
 Chrome extension that replaces offensive words with safe alternatives.
 
-Features:
-- Dynamic content filtering
-- Multilingual support
-- Enable/disable toggle
+**Features**
+- Dynamic content filtering  
+- Multilingual support  
+- Enable/disable toggle  
 
 ---
 
 ### ⚡ Flutter Pokédex App
+Pokédex mobile application using PokéAPI.
 
-A Pokédex mobile application built using Flutter and PokéAPI.
-
-Features:
-- Pokémon search
-- Sorting and filtering
-- Guess the Pokémon game
-- Pokédex-style UI
-
----
-
-## 📊 GitHub Stats
-
-![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-Rohit-Reddy&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=A-Rohit-Reddy&layout=compact&theme=tokyonight)
+**Features**
+- Pokémon search  
+- Sorting and filtering  
+- Guess the Pokémon game  
+- Pokédex-style UI  
 
 ---
 
-## 📈 Contribution Graph
+# 📊 GitHub Stats
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=A-Rohit-Reddy&theme=tokyo-night)
-
----
-
-## 🏆 Achievements
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=A-Rohit-Reddy&theme=onedark)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=A-Rohit-Reddy&show_icons=true&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-Rohit-Reddy&layout=compact&theme=tokyonight" height="170"/>
+</p>
 
 ---
 
-## 🌐 Connect With Me
+# 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=A-Rohit-Reddy&theme=tokyo-night"/>
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/rohit-reddy-anumolu-37ba33323">
-<img src="https://img.shields.io/badge/LinkedIn-Rohit%20Reddy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Rohit%20Reddy-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://twitter.com/AnumoluRohit">
-<img src="https://img.shields.io/badge/Twitter-@Anumolu_Rohit-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/>
+<img src="https://img.shields.io/badge/X-@Anumolu_Rohit-000000?style=for-the-badge&logo=X&logoColor=white"/>
 </a>
 
 <a href="https://www.instagram.com/its_rohit1911_/">
-<img src="https://img.shields.io/badge/Instagram-rohit_reddy-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-its__rohit1911-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
+
+</p>
 
 </p>
 
 ---
 
-⭐ From [A-Rohit-Reddy](https://github.com/A-Rohit-Reddy)
+<p align="center">
+⭐ From <a href="https://github.com/A-Rohit-Reddy">A-Rohit-Reddy</a>
+</p>
