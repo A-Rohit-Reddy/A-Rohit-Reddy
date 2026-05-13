@@ -111,15 +111,6 @@ Pokédex mobile application using PokéAPI.
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=A-Rohit-Reddy&show_icons=true&theme=tokyonight" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-Rohit-Reddy&layout=compact&theme=tokyonight" height="170"/>
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=A-Rohit-Reddy&theme=tokyo-night"/>
